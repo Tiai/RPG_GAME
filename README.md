@@ -22,11 +22,11 @@ Decompress the [Feeling Souls.zip](https://github.com/Tiai/RPG_Game/blob/main/Ga
 
 ## Screenshots
 
-![MainMenu]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png))
-![CharacterInfo]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png))
-![Options]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png))
-![Shady_Self explosion]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png))
-![DeathBringer_prediction spell attack]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png))
+![MainMenu](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png)
+![CharacterInfo](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png)
+![Options](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png)
+![Shady_Self explosion](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png)
+![DeathBringer_prediction spell attack](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png)
 
 
 ## Acknowledgments
