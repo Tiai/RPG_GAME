@@ -25,8 +25,6 @@
 
 ## Screenshots
 
-Here are some screenshots showcasing various aspects of the game:
-
 
 
 _Main menu scene of the game._
