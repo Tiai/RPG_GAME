@@ -7,11 +7,11 @@
 
 - **Player**: Includes basic movement, three types of attacks, wall climbing, wall sliding, wall jumping, and skills learning.
 - **Enemy**: The game features 5 types of enemies, each with unique abilities and behaviors:
-  1. **Skeleton**: A basic enemy with melee attack capabilities.
-  2. **Slime**: Splits into medium and then smaller slimes when defeated, providing a dynamic challenge.
-  3. **Archer**: Uses long-range arrow attacks and can jump back to avoid danger.
-  4. **Shady**: A self-destructing enemy that explodes upon defeat.
-  5. **DeathBringer**: Utilizes long-range spell attacks and can teleport, making it a challenging opponent.
+  1. Skeleton: A basic enemy with melee attack capabilities.
+  2. Slime: Splits into medium and then smaller slimes when defeated, providing a dynamic challenge.
+  3. Archer: Uses long-range arrow attacks and can jump back to avoid danger.
+  4. Shady: A self-destructing enemy that explodes upon defeat.
+  5. DeathBringer: Utilizes long-range spell attacks and can teleport, making it a challenging opponent.
 - **Save And Load**
 - **SFX And BGM**  
 
