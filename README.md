@@ -18,13 +18,16 @@ A small RPG game demo.
 
 ## Usage
 
-Decompress the [Feeling Souls.zip](https://github.com/Tiai/RPG_GAME/blob/master/Feeling%20Souls.zip) file and run "Feeling Souls.exe" to play.
+Decompress the [Feeling Souls.zip](https://github.com/Tiai/RPG_Game/blob/main/GamePlay/Feeling%20Souls.zip) file and run "Feeling Souls.exe" to play.
 
-## Examples and Screenshots
+## Screenshots
 
-Showcase images or videos of the project in action:
+![MainMenu](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png)
+![CharacterInfo](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png)
+![Options](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png)
+![Shady_Self explosion]((https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png))
+![DeathBringer_prediction spell attack](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png)
 
-![Gameplay screenshot](link_to_screenshot)
 
 ## Acknowledgments
 
