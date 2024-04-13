@@ -1,7 +1,8 @@
 
 # Feeling Souls
 
-"Feeling Souls" is a small RPG game demo inspired by the soul-like genre. Dive into a captivating world with challenging enemies and intricate gameplay.
+"Feeling Souls" is a small RPG game demo inspired by the soul-like genre. 
+Dive into a captivating world with challenging enemies and intricate gameplay.
 
 ## Features
 
