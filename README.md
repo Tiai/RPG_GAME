@@ -12,6 +12,8 @@
   3. **Archer**: Uses long-range arrow attacks and can jump back to avoid danger.
   4. **Shady**: A self-destructing enemy that explodes upon defeat.
   5. **DeathBringer**: Utilizes long-range spell attacks and can teleport, making it a challenging opponent.
+- **Save And Load**
+- **SFX And BGM**  
 
 ## Requirements
 
