@@ -27,20 +27,21 @@ A small RPG game demo that showcases various player and enemy mechanics.
 
 Here are some screenshots showcasing various aspects of the game:
 
-![Main Menu](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png){:width="50%"}
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png" alt="Main Menu" style="width:50%" />
 _Main menu scene of the game._
 
-![Character Info](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png){:width="50%"}
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png" alt="Character Info" style="width:50%" />
 _Display of character information._
 
-![Options](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png){:width="50%"}
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png" alt="Options" style="width:50%" />
 _Game options menu._
 
-![Shady Self-Explosion](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png){:width="50%"}
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png" alt="Shady Self-Explosion" style="width:50%" />
 _Enemy "Shady" self-destructing (self-explosion)._
 
-![DeathBringer Prediction Spell Attack](https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png){:width="50%"}
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png" alt="DeathBringer Prediction Spell Attack" style="width:50%" />
 _Enemy "DeathBringer" performing a long-range spell attack._
+
 ## Acknowledgments
 
 Learning resources for this game were provided by [this course](https://www.udemy.com/course/2d-rpg-alexdev/?couponCode=LETSLEARNNOW).
