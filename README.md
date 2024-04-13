@@ -29,31 +29,44 @@
 
 _Main menu._
 
-<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png" alt="Main Menu" style="width:50%" />
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/MainMenu.png" alt="Main Menu" style="width:50%" />
 
 
 
-_Character information._
+_In game options_Character information._
 
-<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png" alt="Character Info" style="width:50%" />
-
-
-
-_In game options menu._
-
-<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png" alt="Options" style="width:50%" />
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Option_CharacterInfo.png" alt="Character Info" style="width:50%" />
 
 
 
-_Enemy "Shady" self-destructing._
+_In game options_Craft._
 
-<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png" alt="Shady Self-Explosion" style="width:50%" />
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Option_Craft.png" alt="Character Info" style="width:50%" />
 
 
 
-_Enemy "DeathBringer" long-range spell attack._
+_In game options_Skill Tree._
 
-<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png" alt="DeathBringer Prediction Spell Attack" style="width:50%" />
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Option_SkillTree.png" style="width:50%" />
+
+
+
+_In game options_Other Options._
+
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options_Options.png" alt="Character Info" style="width:50%" />
+
+
+
+_Enemy "Shady" self-destruction._
+
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Shady_Self%20destruction.png" alt="Shady Self-Explosion" style="width:50%" />
+
+
+
+_Enemy "DeathBringer" Spell attack._
+
+<img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/DeathBringer_Spell%20attack.png" alt="DeathBringer Prediction Spell Attack" style="width:50%" />
+
 
 
 ## Acknowledgments
