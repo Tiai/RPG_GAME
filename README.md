@@ -1,12 +1,12 @@
 
 # Feeling Souls
 
-A small RPG game demo that showcases various player and enemy mechanics.
+"Feeling Souls" is a small RPG game demo inspired by the soul-like genre. Dive into a captivating world with challenging enemies and intricate gameplay.
 
 ## Features
 
-- **Player Mechanics**: Includes three types of attacks, climbing, wall sliding, and wall jumping.
-- **Enemy Types**: The game features 5 types of enemies, each with unique abilities and behaviors:
+- **Player**: Includes basic movement, three types of attacks, wall climbing, wall sliding, wall jumping, and skills learning.
+- **Enemy**: The game features 5 types of enemies, each with unique abilities and behaviors:
   1. **Skeleton**: A basic enemy with melee attack capabilities.
   2. **Slime**: Splits into medium and then smaller slimes when defeated, providing a dynamic challenge.
   3. **Archer**: Uses long-range arrow attacks and can jump back to avoid danger.
