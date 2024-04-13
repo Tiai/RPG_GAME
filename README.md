@@ -27,31 +27,31 @@
 
 
 
-_Main menu scene of the game._
+_Main menu._
 
 <img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/mainscene.png" alt="Main Menu" style="width:50%" />
 
 
 
-_Display of character information._
+_Character information._
 
 <img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/CharacterInfo.png" alt="Character Info" style="width:50%" />
 
 
 
-_Game options menu._
+_In game options menu._
 
 <img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Options.png" alt="Options" style="width:50%" />
 
 
 
-_Enemy "Shady" self-destructing (self-explosion)._
+_Enemy "Shady" self-destructing._
 
 <img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Self%20explosion.png" alt="Shady Self-Explosion" style="width:50%" />
 
 
 
-_Enemy "DeathBringer" performing a long-range spell attack._
+_Enemy "DeathBringer" long-range spell attack._
 
 <img src="https://github.com/Tiai/RPG_Game/blob/main/Screenshot/Spell%20Attack.png" alt="DeathBringer Prediction Spell Attack" style="width:50%" />
 
@@ -62,11 +62,9 @@ Learning resources for this game were provided by [this course](https://www.udem
 
 ## Future Plans
 
-- Implement additional features such as Input System and Addressables.
+- Implement additional features such as InputSystem and Addressable.
 - Add more content and challenges to enhance the gameplay experience.
 
 ## Contact
 
 For any questions or feedback, feel free to reach out to me via email: wowmilktea222@gmail.com
-
-# RPG_Game
